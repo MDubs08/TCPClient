@@ -1,0 +1,6 @@
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\TCPChatroom\TCPChatroom\bin\Debug\TCPChatroom.exe.config
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\TCPChatroom\TCPChatroom\obj\Debug\TCPChatroom.csprojResolveAssemblyReference.cache
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\TCPChatroom\TCPChatroom\bin\Debug\TCPChatroom.exe
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\TCPChatroom\TCPChatroom\bin\Debug\TCPChatroom.pdb
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\TCPChatroom\TCPChatroom\obj\Debug\TCPChatroom.exe
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\TCPChatroom\TCPChatroom\obj\Debug\TCPChatroom.pdb
